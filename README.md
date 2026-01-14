@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/talhausmandev" target="blank"><img src="https://img.shields.io/twitter/follow/talhausmandev?logo=twitter&style=for-the-badge" alt="talhausmandev" /></a> </p>
 
-- 🔭 I’m currently working on [Hiba Tul Arab | e-commerce website](https://github.com/talhausmandev/hiba-tul-arab)
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/talhausmandev/](https://github.com/talhausmandev/)
