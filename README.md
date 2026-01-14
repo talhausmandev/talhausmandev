@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhausmandev&label=Profile%20views&color=0e75b6&style=flat" alt="talhausmandev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhausmandev" alt="talhausmandev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/talhausmandev" target="blank"><img src="https://img.shields.io/twitter/follow/talhausmandev?logo=twitter&style=for-the-badge" alt="talhausmandev" /></a> </p>
 
 - 🔭 I’m currently working on [Hiba Tul Arab | e-commerce website](https://github.com/talhausmandev/hiba-tul-arab)
