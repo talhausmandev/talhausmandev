@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/talhausmandev/](https://github.com/talhausmandev/)
 
-- 📫 How to reach me **https://talhausman.site/contact-me**
+- 📫 How to reach me **https://talhausmandev.com/contact-me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
